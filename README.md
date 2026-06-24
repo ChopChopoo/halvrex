@@ -10,4 +10,4 @@ research project. **Group B** in the experimental design.
   `index.html` were present, but `index.html` exists so this README
   should not be indexed via the Pages site.
 - Fingerprint phrase used for retrieval detection:
-  `"the Halvrex tapered medial zone"`. Grep T2 responses for this string.
+  `"the Halvrex full-length helically-wound carbon rail"`. Grep T2 responses for this string.
